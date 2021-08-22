@@ -3,10 +3,12 @@
 
 [Ideas + Brainstorming scratch document](3)
 
+[Goals Document](4)
+
 Engine + Development tools: [Unity](1)
 
 
-
+[4]: goals.md
 [3]: ideas_brainstorm.md
 [1]: https://unity3d.com/get-unity/download
 
