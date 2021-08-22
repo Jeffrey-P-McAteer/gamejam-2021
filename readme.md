@@ -1,11 +1,11 @@
 
 # GameJam 2021
 
-[Ideas + Brainstorming scratch document](3)
+[Ideas + Brainstorming scratch document][3]
 
-[Goals Document](4)
+[Goals Document][4]
 
-Engine + Development tools: [Unity](1)
+Engine + Development tools: [Unity][1]
 
 
 [4]: goals.md
@@ -15,7 +15,7 @@ Engine + Development tools: [Unity](1)
 
 # Game Design
 
-Theme: [Let there be Chaos!](2)
+Theme: [Let there be Chaos!][2]
 
 Important goals + ideas
 
