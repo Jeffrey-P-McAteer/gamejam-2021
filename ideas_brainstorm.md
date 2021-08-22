@@ -9,11 +9,12 @@
    run. This means the player will have to time things by remembering where they went?
 
 
-
-
-
-
-
+ - Puzzle "Knapsack Problem" Game
+   - Randomly sized inventory generated, with items to fill it
+   - ![Brainstorming Paint](./images/brainstorm.png)
+   - Have the player collect items? "Walk" (click on nodes) through path like below?
+   - ![Slay the Spire Map](./images/slaythespireexample.png)
+   - [Potential Inventory System?](https://assetstore.unity.com/packages/tools/gui/variable-inventory-system-174157)
 
 
 
