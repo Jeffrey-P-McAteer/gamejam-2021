@@ -1,12 +1,13 @@
 
 # GameJam 2021
 
+(Ideas + Brainstorming scratch document)[3]
+
 Engine + Development tools: (Unity)[1]
 
 
 
-
-
+[3]: ideas_brainstorm.md
 [1]: https://unity3d.com/get-unity/download
 
 
