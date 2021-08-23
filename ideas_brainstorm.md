@@ -15,6 +15,7 @@
    - Have the player collect items? "Walk" (click on nodes) through path like below?
    - ![Slay the Spire Map](./images/slaythespireexample.png)
    - [Potential Inventory System?](https://assetstore.unity.com/packages/tools/gui/variable-inventory-system-174157)
+     - Would we rather write one ourselves? Or make use of this and try and add more features?
 
 
 
