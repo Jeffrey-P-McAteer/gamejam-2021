@@ -12,7 +12,7 @@
  - Puzzle "Knapsack Problem" Game
    - Randomly sized inventory generated, with items to fill it
    - ![Brainstorming Paint](./images/brainstorm.png)
-   - Have the player collect items? "Walk" (click on nodes) through path like below?
+   - Have the player collect items? "Walk" (click on nodes) through path like below? Maybe this could be the point of the game, rather than having it be like a "puzzle" game? Gear out a character to "walk" through the map and loot new gear based on the nodes you select?
    - ![Slay the Spire Map](./images/slaythespireexample.png)
    - [Potential Inventory System?](https://assetstore.unity.com/packages/tools/gui/variable-inventory-system-174157)
      - Would we rather write one ourselves? Or make use of this and try and add more features?
