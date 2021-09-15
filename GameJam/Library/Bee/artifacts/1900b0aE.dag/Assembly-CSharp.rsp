@@ -332,10 +332,15 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/InventoryReference.cs"
+"Assets/ItemHolder.cs"
 "Assets/Scripts/Inventory/Cell.cs"
+"Assets/Scripts/Inventory/Draggable.cs"
+"Assets/Scripts/Inventory/Droppable.cs"
 "Assets/Scripts/Inventory/Inventory.cs"
 "Assets/Scripts/Inventory/Item.cs"
 "Assets/Scripts/PuzzleGenerator.cs"
+"Assets/Scripts/UIManager.cs"
 -langversion:8.0
 
 /deterministic

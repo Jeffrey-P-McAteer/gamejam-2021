@@ -2,21 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Cell : MonoBehaviour
+public class Cell// : MonoBehaviour
 {
-    private Item item;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public Item item;
 
     public void setItem(Item toSet) {
         this.item = toSet;
@@ -24,5 +12,13 @@ public class Cell : MonoBehaviour
 
     public Item getItem() {
         return this.item;
+    }
+
+    public string getItemStr() {
+        if (this.item == null) {
+            return " ";
+        } else {
+            return this.item.id.ToString();
+        }
     }
 }
